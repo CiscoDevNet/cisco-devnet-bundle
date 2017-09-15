@@ -1,0 +1,20 @@
+{
+  "name": "cisco-devnet-bundle",
+  "version": "0.0.1",
+  "description": "Cisco DevNet bundle for login and profile modal.",
+  "author": "Cisco DevNet",
+  "main": [
+  	"config.js",
+  	"devnet-bundle.js",
+  	"devnet-bundle.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CiscoDevNet/cisco-devnet-bundle"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CiscoDevNet/cisco-devnet-bundleissues"
+  },
+  "homepage": "https://github.com/CiscoDevNet/cisco-devnet-bundle"
+}

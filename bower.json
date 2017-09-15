@@ -1,0 +1,12 @@
+{
+  "name": "cisco-devnet-bundle",
+  "version": "0.0.1",
+  "main": [
+  	"config.js",
+  	"devnet-bundle.js",
+  	"devnet-bundle.css"
+  ],
+  "ignore": [
+    "**/.*"
+  ]
+}
